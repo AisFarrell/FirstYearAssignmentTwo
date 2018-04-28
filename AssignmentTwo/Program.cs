@@ -9,9 +9,6 @@ namespace AssignmentTwo
 {
     class Program
     {
-        //could use filepath instead 
-        //static string FilePath = "F:\\FrenchMF.txt";
-
         static void Main(string[] args)
         {
             string[] locations = new string[5];
